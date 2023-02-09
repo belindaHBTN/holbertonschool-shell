@@ -10,3 +10,4 @@
 10. script: delete a dir
 11. script: change the working dir to the previous one
 12. script: display all files in different dirs
+13. script: print the type of the file
