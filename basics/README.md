@@ -8,3 +8,4 @@
 8. script: move file to dir
 9. script: remove file from dir
 10. script: delete a dir
+11. script: change the working dir to the previous one
