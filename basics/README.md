@@ -14,3 +14,4 @@
 14. create a symbolic link
 15. copy HTML files
 16. move all files beginning with an uppercase letter to the dirctory /tmp/u
+17. deletes all files in the current dir that end with ~
