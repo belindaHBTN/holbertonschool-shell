@@ -9,3 +9,4 @@
 9. script: remove file from dir
 10. script: delete a dir
 11. script: change the working dir to the previous one
+12. script: display all files in different dirs
