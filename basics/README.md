@@ -4,3 +4,4 @@
 4. script: display current directory contents in a long format
 5. script: display current dirctory contents including hidden files
 6. script: display current dir contenst: long format, Id, hidden files
+7. script: create a directory in the tmp dir
