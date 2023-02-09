@@ -7,3 +7,4 @@
 7. script: create a directory in the tmp dir
 8. script: move file to dir
 9. script: remove file from dir
+10. script: delete a dir
