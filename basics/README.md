@@ -6,3 +6,4 @@
 6. script: display current dir contenst: long format, Id, hidden files
 7. script: create a directory in the tmp dir
 8. script: move file to dir
+9. script: remove file from dir
