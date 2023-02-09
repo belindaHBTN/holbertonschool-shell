@@ -12,3 +12,4 @@
 12. script: display all files in different dirs
 13. script: print the type of the file
 14. create a symbolic link
+15. copy HTML files
